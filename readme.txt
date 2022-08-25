@@ -1,8 +1,3 @@
-本團隊致力於利用高光譜模擬轉換技術與空拍影像結合，辨識城市中空氣與河川汙染程度之AI模型
-目前已進行空氣汙染辨識模型之初步開發
-並收集台灣嘉義縣市、雲林等地區小型無人機空拍影像
-包含以100M高度飛行之城市空拍影像，並記錄該地區PM2.5與PM10數據；
-另有台灣嘉義市牛稠溪上空空拍影像，利用小型無人機於高度60M處拍攝之影像，並對此河川進行河水採樣，檢測其PH值、BOD、COD等數值。
-可用於影像辨識訓練時之資料集
+The team is committed to using hyperspectral analog conversion technology combined with aerial imagery to identify the AI model of air and river pollution in cities. Preliminary development of an air pollution identification model has been carried out. The team has collected aerial images of small drones in Chiayi County, Taiwan, and the Yunlin area. This image is an aerial image of a city flying at an altitude of 100 meters, and recorded PM2.5 and PM10 data in the area. There is also an aerial image of the Niu Chou River in Chiayi City, Taiwan. The image was taken at an altitude of 60 meters by a small drone, and the river water was sampled to detect its pH, BOD, and COD values. These images can be used as datasets for image recognition training
 
-對上述資料集與模型有興趣之團隊可發信至smartcitysp7@gmail.com交流探討
+Teams interested in the above datasets and models can send letters to smartcitysp7@gmail.com for discussion
